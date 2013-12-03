@@ -6,6 +6,7 @@ Have a look at controller:
 
 ```php
 <?php
+use Symfony\Component\Validator\Constraints\Collection;
 //...
 class DefaultController
 {
